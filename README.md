@@ -1,1 +1,3 @@
 # odin-recipes
+
+This is a project for The Odin Project that consists of a page that links to three different recipes. On each page you will find an image of the recipe, a description, as well as a list of ingredients needed and the steps to prepare the meal. This project demonstrates using basic HTML skills such as heading and paragraph tags, images and links, as well as ordered and unordered lists. It also demonstrates basic Git knowledge such as writing and pushing commits.
