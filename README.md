@@ -1,1 +1,2 @@
 # odin-recipes
+This is a simple recipe page I made for The Odin Project. It features an index page with links to three different recipe pages. This project demonstrates basic HTML skills such as tags and attributes.
